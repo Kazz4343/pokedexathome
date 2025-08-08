@@ -1,6 +1,6 @@
-# React + Vite
+# Pokedex at home 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a small project is small project I learn along the way of my journey to pursuit the job in developer field. 
 
 Currently, two official plugins are available:
 
